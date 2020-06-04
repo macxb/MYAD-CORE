@@ -1,0 +1,43 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "midas",
+  "license": "ISC",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^11.4.2",
+    "enmap": "^4.5.0",
+    "eslint": "^5.16.0",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^3.2.2",
+    "integer": "^2.1.0",
+    "lodash.get": "^4.4.2",
+    "lodash.set": "^4.3.2",
+    "lodash.unset": "^4.5.2",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.2.2",
+    "mysql": "^2.16.0",
+    "node-fetch": "^2.3.0",
+    "node-gyp": "^4.0.0",
+    "node-opus": "^0.3.1",
+    "nodemon": "^1.18.8",
+    "opusscript": "0.0.6",
+    "rebuild": "^0.1.2",
+    "snekfetch": "^4.0.4",
+    "string-similarity": "^1.2.2",
+    "winston": "^3.1.0"
+  },
+  "devDependencies": {},
+  "description": "di",
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "darkorbit"
+  ]
+}

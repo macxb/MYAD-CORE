@@ -1,8 +1,6 @@
 # core 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W21C3X1)
 
-[![freebitcoin](https://static1.freebitco.in/banners/728x90-3.png)](https://freebitco.in/?r=37494764)
-
 A Discord admin bot using the discord.js library
 
 ## YOU MUST HAVE JAVA RUNTIME SE AND THE DISCORD.JS LIBRARY INSTALLED!

@@ -9,7 +9,9 @@ https://www.java.com/en/download/
 
 https://www.npmjs.com/
 
+https://discord.js.org/
 
-## YOU MUST HAVE JAVA RUNTIME SE, npm AND THE DISCORD.JS LIBRARY INSTALLED TO RUN THIS!
+
+## YOU MUST HAVE JAVA RUNTIME SE, node.js, npm AND THE discord.js LIBRARY INSTALLED TO RUN THIS!
 
 Download the code, edit the various channel & user IDs, save it and the package-lock.json should download and install the dependencies when you run the bot.

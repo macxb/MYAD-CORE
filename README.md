@@ -12,4 +12,4 @@ https://www.npmjs.com/
 
 ## YOU MUST HAVE JAVA RUNTIME SE, npm AND THE DISCORD.JS LIBRARY INSTALLED TO RUN THIS!
 
-Download the code, edit the various channel & user IDs, save it and the package-lock.json should download the dependencies when you run the bot.
+Download the code, edit the various channel & user IDs, save it and the package-lock.json should download and install the dependencies when you run the bot.

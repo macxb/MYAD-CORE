@@ -10,6 +10,6 @@ module.exports = ('messageUpdate', async (client, oldMessage, newMessage) => {
 if (newMessage.channel.type === "dm") return;
 if (newMessage.author.bot) return;
   if(newMessage != "ew") {
-    client.channels.get("529039594336026634").send(`**User:** ${newMessage.author}\n**Server:** ${newMessage.guild}\n**Channel: **${newMessage.channel}\n**Original message:** ${oldMessage}\n**Edited message: **${newMessage}`).catch(error => console.log(error.stack));
+    client.channels.get("MODERATIONCHANNELID").send(`**User:** ${newMessage.author}\n**Server:** ${newMessage.guild}\n**Channel: **${newMessage.channel}\n**Original message:** ${oldMessage}\n**Edited message: **${newMessage}`).catch(error => console.log(error.stack));
   }
 });

@@ -11,7 +11,7 @@
     "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
     "discord.js": "^11.4.2",
     "enmap": "^4.5.0",
-    "eslint": "^5.16.0",
+    "eslint": "^9.15.0",
     "ffmpeg": "0.0.4",
     "ffmpeg-binaries": "^3.2.2",
     "integer": "^2.1.0",
